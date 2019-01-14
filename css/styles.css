@@ -1,0 +1,15 @@
+#header-nav {
+  background-color: #55d619;
+}
+
+.navbar-brand h1 {
+  font-family: 'lora', serif;
+  color:#d69d19;
+  font-size: 1.5em;
+  /*text-transform: uppercase;*/
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #19d6b1;
+  margin-top:0;
+  margin-bottom:0;
+  line-height: .75;
+}
